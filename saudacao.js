@@ -3,3 +3,5 @@ function saudacao (nome) {
 }
 
 saudacao (`Felipe`);
+
+console.log(saudacao);
