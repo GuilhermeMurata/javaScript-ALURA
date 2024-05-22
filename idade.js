@@ -1,7 +1,7 @@
 function verificaIdade (idade){
     if (idade >= 18) {
         return true;
-    } else (idade < 18) {
+    } else {
         return false;
     }
 }
