@@ -1,4 +1,8 @@
-const notas = [1, 2, 3, 4, 5];
-console.log(notas);
-notas.unshift(0);
-console.log(notas);
+const num = [];
+num.push(3, 2, 3);
+
+console.log(num);
+
+let firstNum = num[0]*num[0];
+
+console.log(firstNum);
